@@ -24,6 +24,7 @@
 body  {
   background-image:linear-gradient(to bottom, darkslateblue, lightpink);
   color:lightpink;
+  font-family:Helvetica;
 }
 
 html {
