@@ -1,0 +1,16 @@
+.jumbotron {
+  color:lightpink;
+  background-color: darkslateblue;
+  text-align: center;
+  font-size: 30px;
+}
+
+.jumbotron h2 {
+  color: darksalmon;
+  background-color: darkmagenta;
+  font-size: 14px;
+}
+
+body  {
+  background-color: lightseagreen;
+}
