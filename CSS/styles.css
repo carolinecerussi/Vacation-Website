@@ -3,6 +3,8 @@
   background-color: darkslateblue;
   text-align: center;
   font-size: 30px;
+  margin: 20px;
+  width:auto
 }
 
 .jumbotron h2 {
