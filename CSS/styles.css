@@ -1,18 +1,31 @@
 .jumbotron {
   color:lightpink;
-  background-color: darkslateblue;
+  background-color: slateblue;
   text-align: center;
-  font-size: 30px;
-  margin: 20px;
-  width:auto
+  font-size: 64px;
+  margin-top: 20px;
 }
 
 .jumbotron h2 {
   color: darksalmon;
   background-color: darkmagenta;
-  font-size: 14px;
+  font-size: 48px;
+}
+
+.blockquote h2{
+  margin: auto;
+  font-size: 36px;
+}
+
+.blockquote-footer {
+  font-size: 24px;
 }
 
 body  {
-  background-color: lightseagreen;
+  background-image:linear-gradient(to bottom, darkslateblue, lightpink);
+  color:lightpink;
+}
+
+html {
+  height: 100%;
 }
