@@ -21,6 +21,10 @@
   font-size: 24px;
 }
 
+img {
+  margin: auto;
+}
+
 body  {
   background-image:linear-gradient(to bottom, darkslateblue, lightpink);
   color:lightpink;
